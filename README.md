@@ -27,3 +27,9 @@ Data Fields
 - casual : number of non-registered user rentals initiated
 - registered : number of registered user rentals initiated
 - count : number of total rentals
+
+
+## *Regression webapp in flask*
+<p align="center">
+<img src= "https://github.com/avinabagh98/Regression_Problem/blob/main/Regressor%20Flask%20App%20SS.png"/>
+</p>
